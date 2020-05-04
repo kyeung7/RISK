@@ -1,9 +1,0 @@
-https://en.wikipedia.org/wiki/Risk_(game)
-
-https://stackoverflow.com/questions/20002242/how-to-scale-images-to-screen-size-in-pygame
-
-https://stackoverflow.com/questions/16748897/how-to-animate-scale-and-rotate-in-pygame-using-rotozoom
-
-https://www.google.com/search?q=python+pygame+load+screen&oq=python+pygame+load+screen&aqs=chrome..69i57.4998j0j7&sourceid=chrome&ie=UTF-8
-
-https://pythonprogramming.net/making-interactive-pygame-buttons/
